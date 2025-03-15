@@ -11,7 +11,7 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # Replace 'YOUR_BOT_TOKEN' with your actual bot token
-TOKEN = 'YOUR_BOT_TOKEN'
+TOKEN = '1093926477:AAGRY4Yac6wpHjYBqVJFC-fo34mW0S-JGao'
 WATERMARK_TEXT = 'Watermark Text'
 
 def start(update: Update, context: CallbackContext) -> None:
